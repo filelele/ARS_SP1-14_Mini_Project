@@ -1,0 +1,15 @@
+frames_origin_size/
+conversion2images.ipynb
+First_success.ipynb
+labelling*
+__pycache__/
+vid2images.py
+*.mp4
+*.avi
+*.mov
+*.AVI
+*.png
+*.jpg
+*.jpeg
+
+*.zip
